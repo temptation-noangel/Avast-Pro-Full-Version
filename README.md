@@ -235,3 +235,6 @@ This repository serves as the official landing page for Avast Pro Antivirus. The
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Avast Pro Antivirus today!**
+
+---
+**Last updated:** 2026-09-12 12:44:09 UTC
