@@ -237,4 +237,4 @@ This repository serves as the official landing page for Avast Pro Antivirus. The
 **Get the most recent version of Avast Pro Antivirus today!**
 
 ---
-**Last updated:** 2026-09-17 21:58:26 UTC
+**Last updated:** 2026-09-18 00:05:06 UTC
